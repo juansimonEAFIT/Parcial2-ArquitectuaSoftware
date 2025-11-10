@@ -1,7 +1,7 @@
 # Microservicio Factorial – Parcial 2 Arquitectura de Software
 
 ## Juan Simón Ospina Martínez
-### cUniversidad EAFIT – 2025-2
+### Universidad EAFIT – 2025-2
 
 ### Descripción
 
